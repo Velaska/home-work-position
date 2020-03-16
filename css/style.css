@@ -49,7 +49,6 @@ body {
     max-width: 710px;
     margin: auto;
 }
-
 /*fixed_block*/
 .fixed-social {
     position: fixed;
@@ -60,7 +59,6 @@ body {
     color: white;
     z-index: 1;
 }
-
 .social {
     display: block;
     width: 50px;
@@ -80,13 +78,11 @@ header {
     background-color: #af2024;
     height: 40px;
 }
-
 .logo {
     display: block;
     max-width: 342px;
     padding-top: 20px;
 }
-
 .logo img {
     width: 100%;
 }
