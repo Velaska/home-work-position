@@ -1,0 +1,11 @@
+@media screen and (min-width: 480px) and (max-width: 1200px){
+
+}
+
+
+@media only screen and (max-width: 768px) {
+    .block_1, .block_2{
+        display: none;
+    }
+}
+
